@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+A simple Weather App which utilizes REACT-strap and API's to give weather results of any location the user chooses
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
