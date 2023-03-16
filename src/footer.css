@@ -1,0 +1,16 @@
+.footer{
+
+    color: black;
+    background: rgb(29, 154, 226);
+    padding-top: 3em;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.bottomleft{
+
+    color: rgb(255, 255, 255);
+    font-family: Georgia;
+    font-size: large;
+}

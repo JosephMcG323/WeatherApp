@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather:100,200,300,300i,400,400i,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:400,700');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400');
+
+ .main {
+  height: 90vh;
+  background: rgb(236, 5, 5);
+  box-shadow: 0px 13px 40px -13px rgba(0, 0, 0, 0.75);
+  width: 80%;
+  margin: 0 auto;
+}
+
+
+.mainDiv{
+  background: linear-gradient(rgb(230, 232, 235), rgb(222, 234, 255));
+
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.7;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.h1-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color:rgb(29, 41, 40);
+  font-family: Georgia
+
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+html {
+  font-size: 100%;
+}
+
+.container {
+  
+  max-width: 61em;
+  margin: 5em auto;
+} 
+
+.linebreak-space{
+  margin: auto;
+  width: 100%;
+  height: 100%;
+  padding: 10px;
+}
+
+.container-medium-zoom {
+  margin: auto;
+  width: 100%;
+  height: 100%;
+}
+.container-medium-zoom > div {
+  width: 100%;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+html {
+  font-size: 100%;
+}
+
+
+.centerzoomImg {
+  margin: 10px auto 100;
+  align-items: center;
+  display: block;
+
+}
+
+.centerAll {
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+.centerAll3 {
+  margin: auto;
+  align-items: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.centerAll3b {
+  width: 150%;
+  height: 100%;
+
+}
