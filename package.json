@@ -20,7 +20,7 @@
     "react-grid-gallery": "^0.5.6",
     "react-medium-image-zoom": "^4.3.7",
     "react-router-dom": "^6.4.2",
-    "react-scripts": "3.3.0",
+    "react-scripts": "5.0.1",
     "yarn": "^1.22.4"
   },
   "scripts": {
